@@ -9,3 +9,6 @@ Using OpenCV we will devise a Computer Vison algorithm that can:
 1. Localize the four groupings of four digits on a credit card.
 2. Extract each of these four groupings followed by segmenting each of the sixteen numbers individually.
 3. Recognize each of the sixteen credit card digits by using template matching and the OCR-A font.
+
+## Reference
+https://www.pyimagesearch.com/2017/07/17/credit-card-ocr-with-opencv-and-python/
